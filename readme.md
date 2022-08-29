@@ -1,0 +1,2 @@
+Esse Projeto foi criado em JavaScript, um jogo da memória, onde foi preciso pesquisar, ficar horas num erro bobo e resolvê-lo em menos de uma linha. 
+Projeto solo, concluido com dedicação e muita pesquisa!
